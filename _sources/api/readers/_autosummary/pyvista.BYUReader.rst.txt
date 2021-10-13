@@ -1,0 +1,34 @@
+﻿pyvista.BYUReader
+=================
+
+.. currentmodule:: pyvista
+
+.. autoclass:: BYUReader
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      BYUReader.read
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      
+      BYUReader.reader
+      
+   
+   

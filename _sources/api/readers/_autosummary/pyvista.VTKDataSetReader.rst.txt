@@ -1,0 +1,34 @@
+﻿pyvista.VTKDataSetReader
+========================
+
+.. currentmodule:: pyvista
+
+.. autoclass:: VTKDataSetReader
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      VTKDataSetReader.read
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      
+      VTKDataSetReader.reader
+      
+   
+   

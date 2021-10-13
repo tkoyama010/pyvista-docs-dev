@@ -1,0 +1,34 @@
+﻿pyvista.PLYReader
+=================
+
+.. currentmodule:: pyvista
+
+.. autoclass:: PLYReader
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      PLYReader.read
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      
+      PLYReader.reader
+      
+   
+   
